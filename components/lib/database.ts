@@ -1,5 +1,5 @@
 import sqlite3 from 'sqlite3';
-import { open } from 'sqlite';
+import { open } from 'sqlite'; // Import the open function from the 'sqlite' module
 
 export async function openDb() {
   return open({
