@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Mi Blog Vasco",
+    "courses": "Cursos"
+  }
+}
+{
+  "footer": {
+    "text": "Hecho con ❤️ por Vasco"
+  },
+  "home": {
+    "welcome": "Bienvenido a mi blog",
+    "description": "Aquí encontrarás artículos sobre desarrollo web, programación y más."
+  },
+  "courses": {
+    "title": "Cursos Disponibles",
+    "description": "Explora nuestros cursos para mejorar tus habilidades."
+  }
+}
+{
+  "article": {
+    "read_more": "Leer más",
+    "comments": "Comentarios",
+    "leave_comment": "Deja un comentario"
+  },
+  "contact": {
+    "title": "Contacto",
+    "description": "Si tienes alguna pregunta, no dudes en contactarme."
+  }
+}
